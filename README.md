@@ -8,3 +8,7 @@ Roseanne is working on deer and mountain hare.
 
 Line 7 Edited by Eleanor
 
+## Useful info
+
+You can find a page of useful info for Git [here](git_info.md)
+
