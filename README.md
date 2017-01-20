@@ -4,15 +4,16 @@ This repository is the shared repository for class notes and code
 
 ## Sequences
 
-Roseanne is working on deer and mountain hare.
 
 | Common name | Scientific name | Sequence ID | Fasta File |
 |---|---|---|---|
-| Deer | |||
-| Mountain Hare | |||
+| Red Deer | _Cervus elaphus_ | KR019013 ||
+| Mountain Hare | _Lepus timidus_ | AB245427 ||
+| Ferret | _Mustela nigripes_ | NC_024942 | |
+| Weasel | _Mustela altaica_ | NC_021751 | |
+| Wildcat | _Felis silvestris_ | NC_028310 | |
+| Red fox | _Vulpes vulpes_ | JN711443 | |
 
-
-Line 7 Edited by Eleanor
 
 ## Useful info
 
