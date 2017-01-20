@@ -9,7 +9,7 @@ This repository is the shared repository for class notes and code
 |---|---|---|---|
 | Red Deer | _Cervus elaphus_ | KR019013 ||
 | Mountain Hare | _Lepus timidus_ | AB245427 ||
-| Ferret | _Mustela nigripes_ | NC_024942 | |
+| Ferret | _Mustela nigripes_ | NC_024942 | [FASTA](sequences/NC_024942.fasta) [Genbank](sequences/NC_024942.gb) |
 | Weasel | _Mustela altaica_ | NC_021751 | |
 | Wildcat | _Felis silvestris_ | NC_028310 | |
 | Red fox | _Vulpes vulpes_ | JN711443 | |
