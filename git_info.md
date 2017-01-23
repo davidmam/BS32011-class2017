@@ -21,3 +21,7 @@ then commit (save a snapshot) with
 	
 ### See all commits
     git log	
+
+### resolving conflicts
+
+A conflict will occur when two people try to make changes to the same repository
