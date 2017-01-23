@@ -11,8 +11,8 @@ This repository is the shared repository for class notes and code. The project o
 | Mountain Hare | _Lepus timidus_ | AB245427 ||
 | Ferret | _Mustela nigripes_ | NC_024942 | [FASTA](sequences/NC_024942.fasta) [Genbank](sequences/NC_024942.gb) |
 | Weasel | _Mustela altaica_ | NC_021751 | [FASTA](sequences/Weasel.fasta) [Genbank](sequences/Weasel.gb) |
-| Wildcat | _Felis silvestris_ | NC_028310 | |
-| Red fox | _Vulpes vulpes_ | JN711443 | |
+| Wildcat | _Felis silvestris_ | NC_028310 | [FASTA](sequences/NC_028310_wildcat.fasta) [Genbank](sequences/NC_028310_wildcat.gb) |
+| Red fox | _Vulpes vulpes_ | JN711443 | [FASTA](sequences/JN711443_redfox.fasta) [Genbank](sequences/JN711443_redfox.gb) |
 
 
 ## Useful info
