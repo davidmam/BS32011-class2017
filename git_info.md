@@ -15,3 +15,6 @@ then commit (save a snapshot) with
 ### Update github with the changes
 
     git push origin master
+	
+### Get latest changes from GitHub
+    git pull
