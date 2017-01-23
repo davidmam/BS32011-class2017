@@ -1,6 +1,6 @@
 # Class Notes for BS32011 - 2017
 
-This repository is the shared repository for class notes and code
+This repository is the shared repository for class notes and code. The project overview is at https://github.com/davidmam/BS32011-2015 
 
 ## Sequences
 
