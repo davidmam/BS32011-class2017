@@ -18,3 +18,6 @@ then commit (save a snapshot) with
 	
 ### Get latest changes from GitHub
     git pull
+	
+### See all commits
+    git log	
