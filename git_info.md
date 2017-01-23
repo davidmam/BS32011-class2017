@@ -18,3 +18,7 @@ then commit (save a snapshot) with
 	
 ### Get latest changes from GitHub
     git pull
+	
+### resolving conflicts
+
+A conflict will occur when two people try to make changes to the same repository
