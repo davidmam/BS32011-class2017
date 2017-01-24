@@ -7,8 +7,8 @@ This repository is the shared repository for class notes and code. The project o
 
 | Common name | Scientific name | Sequence ID | Fasta File |
 |---|---|---|---|
-| Red Deer | _Cervus elaphus_ | KR019013 ||
-| Mountain Hare | _Lepus timidus_ | AB245427 ||
+| Red Deer | _Cervus elaphus_ | AB245427 | [FASTA](sequences/reddeer.fasta) [Genbank](sequences/reddeer.gb) |
+| Mountain Hare | _Lepus timidus_ | KR019013 | [FASTA](sequences/mountainhare.fasta) [Genbank](sequences/mountainhare.gb) |
 | Ferret | _Mustela nigripes_ | NC_024942 | [FASTA](sequences/NC_024942.fasta) [Genbank](sequences/NC_024942.gb) |
 | Weasel | _Mustela altaica_ | NC_021751 | [FASTA](sequences/Weasel.fasta) [Genbank](sequences/Weasel.gb) |
 | Wildcat | _Felis silvestris_ | NC_028310 | [FASTA](sequences/NC_028310_wildcat.fasta) [Genbank](sequences/NC_028310_wildcat.gb) |
