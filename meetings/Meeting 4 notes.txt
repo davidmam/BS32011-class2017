@@ -1,0 +1,41 @@
+BS32011 Meeting 4 notes
+Last meeting: aligned sequences on jalview, then met in library to discuss jalview.
+Current meeting: restriction analysis, by next week the presenter will provide 1-2 slides in the meeting to show progression.
+Restriction enzyme classes: a) Cuts in site b) Cuts after/before site 
+When comparing restriction sites between sequences, the unique ones are the ones that we care about.
+Be careful with gaps in the alignment, the script must account for them.
+For next week: Recalibrate position to add gaps
+text.count(...)
+*Moved to IT Suite D for computer use and used Xming to log in to life sciences server.
+mkdir BS32011-2017
+cd BS32011-2017/
+git clone https://github.com/davidmam/BS32011-class2017.git
+Adding -help after the command gives you the mandatory qualifiers.
+history gives you all previous commands.
+history > name.txt writes down your command history 
+In bases: N = A/T/G/C 
+R = Purines A/G 
+Y = Pyrimidines T/C 
+S = Strongly bonded C-G 
+W = Weakly bonded A-T 
+K = C/A 
+M = G/T
+B = Not A 
+D = Not C 
+H = Not G 
+v = Not T 
+For next week: Count the gaps in the command prompt.
+You can use the multiple alignment from jalview.
+nano filename.txt is a text editor
+List of commands: 
+mkdir BS32011-2017
+cd BS32011-2017
+git clone https://github.com/davidmam/BS32011-class2017.git
+cd BS32011-class2017/sequences/
+ls
+wossname restrict
+restrict -help
+restrict NC_024942.fasta
+more NC_024942.restrict
+git commit -am "initial restriction digest demo"
+git push origin master
