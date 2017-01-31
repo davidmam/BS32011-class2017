@@ -1,0 +1,12 @@
+   BS32011 Project A Meeting 3 Agenda (24/1/2017)
+
+David Martin
+George Krontiris
+Eleanor Adams
+Roseanne Smith
+
+Previous meeting discussion: Use of github, uploading FASTA and GENEBANK sequences, distribution of Python Books
+
+Current meeting: Aligning sequences on Jalview, create realignment program on spyder.
+
+Next meeting: analysis of restriction digests
