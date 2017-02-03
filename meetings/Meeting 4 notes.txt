@@ -1,5 +1,12 @@
-BS32011 Meeting 4 notes
-Last meeting: aligned sequences on jalview, then met in library to discuss jalview.
+
+BS32011 Project A Meeting 4 Agenda (27/1/2017)
+David Martin
+George Krontiris
+Eleanor Adams
+Roseanne Smith 
+
+Previous meeting: Aligning sequences on Jalview: Circular genomes may not have the same start and end point, as identified in Wildcat. We created a program to reallign the wildcat genome and this was uploaded onto github. AFter the meeting we met in the library to discuss using jalveiw. 
+ 
 Current meeting: restriction analysis, by next week the presenter will provide 1-2 slides in the meeting to show progression.
 Restriction enzyme classes: a) Cuts in site b) Cuts after/before site 
 When comparing restriction sites between sequences, the unique ones are the ones that we care about.
