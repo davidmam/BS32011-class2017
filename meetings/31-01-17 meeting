@@ -1,0 +1,12 @@
+AGENDA:
+
+Date: 31/01/17
+Time: 12 noon
+Location: Carnelley C2.20
+Attendees: David Martin, Eleanor Adams (secretary), George Krontiris (presenter), Roseanne Smith (chair)
+
+Previous meeting: Used Xming to create restriction maps.
+
+Current meeting: Created a script on Python that rewrites positions to include gaps.
+
+Next meeting: Compare alignments for restriction sites present in both or unique to one.
