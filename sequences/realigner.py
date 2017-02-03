@@ -5,7 +5,7 @@ Spyder Editor
 This is a temporary script file.
 """
 
-filename = '../multiple alignment/wildcat.fasta'
+filename = '../multiple alignment/fox.fasta'
 #ask the user for the number of bases to move from the start. Convert the text to an integer
 
 # open the file to read in the sequence
@@ -16,7 +16,7 @@ header = fh.readline().strip()
 sequence = fh.read().replace('\n','')
 fh.close()
 
-restrict = 'nc_028310.restrict'
+restrict = 'jn711443.restrict'
 
 fh = open(restrict)
 
