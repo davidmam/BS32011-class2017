@@ -5,8 +5,8 @@ Created on Fri Feb  3 16:40:11 2017
 @author: David
 """
 
-filea = 'jn711443.restrict.txt'
-fileb = 'nc_028310.restrict.txt'
+filea = 'Weasel2.restrict.txt'
+fileb = 'Ferret.restrict.txt'
 
 maxcuts = 5
 
@@ -36,11 +36,11 @@ lineb = getline(fhb)
 
 sitecounta = {}
 sitecountb = {}
-
+sitecountboth={}
 while linea and lineb:
     if linea[0] == lineb[0]:
-        sitecounta[linea[3]] = sitecounta.get(linea[3],0) +1
-        sitecountb[lineb[3]] = sitecountb.get(lineb[3],0) +1
+        sitecountboth[linea[3]] = sitecountboth.get(linea[3],0) +1
+        #sitecountb[lineb[3]] = sitecountb.get(lineb[3],0) +1
         linea = getline(fha)
         lineb = getline(fhb)
     elif linea[0] < lineb[0]: #found A
@@ -57,7 +57,15 @@ fhb.close()
 ofha.close()
 ofhb.close()
 
-enz = set( [ x for x in sitecounta.keys() if sitecounta[x] < 5] +  
-[ x for x in sitecountb.keys() if sitecountb[x] < 5])
+enz = set( [ x for x in sitecounta.keys() if sitecounta[x] < maxcuts] +  
+[ x for x in sitecountb.keys() if sitecountb[x] < maxcuts])
 
+sites=[]
+for x in set(list(sitecounta.keys())+ list(sitecountb.keys())+ list(sitecountboth.keys())):
+    sites.append([x,sitecounta.get(x,0), sitecountb.get(x,0),sitecountboth.get(x,0)])
+
+efh=open('enzymes.out','w')
+for r in sorted(sites, key = lambda x: sum(x[1:3])):
+    print(r, file=efh)
+efh.close()
 print('infrequent unique cutters = '+str(enz))

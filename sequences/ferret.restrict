@@ -1,11 +1,12 @@
 ########################################
 # Program: restrict
-# Rundate: Fri 27 Jan 2017 16:53:14
+# Rundate: Fri 10 Feb 2017 15:37:54
 # Commandline: restrict
 #    [-sequence] NC_024942.fasta
-#    -outfile ferret.restrict
+#    -sitelen 3
+#    -outfile Ferret.restrict
 # Report_format: table
-# Report_file: ferret.restrict
+# Report_file: Ferret.restrict
 ########################################
 
 #=======================================
@@ -15,7 +16,7 @@
 #
 # Minimum cuts per enzyme: 1
 # Maximum cuts per enzyme: 2000000000
-# Minimum length of recognition site: 4
+# Minimum length of recognition site: 3
 # Blunt ends allowed
 # Sticky ends allowed
 # DNA is linear
