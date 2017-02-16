@@ -28,8 +28,7 @@ To make restrictions
 1) programs, school of life sciences, general, xming (gets on to the life science server)
 2) applications, general, terminal
 3) mkdir "BS32011"
-4) cd BS32011
-4) git clone https://github.com/davidmam/BS32011-class2017.git
+4) cd BS32011, git clone https://github.com/davidmam/BS32011-class2017.git
 5) cd BS32011-class2017/sequences/
 6) wossname restrict
 7) restrict help (optional)
