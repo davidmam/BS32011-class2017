@@ -22,14 +22,16 @@ You can find a page of useful info for Git [here](git_info.md)
 
 ## Lab meetings
 
-[Friday 20th January](meetings/20-01-17 meeting.md)
-[Tuesday 24th January](meetings/24-01-17 meeting.md)
-[Friday 27th January](meetings/27-01-17 meeting.md)
-[Tuesday 31st January](meetings/31-01-17 meeting.md)
-[Friday 3rd Febuary](meetings/3-02-17 meeting.md)
-[Tuesday 7th Febuary](meetings/7-02-17 meeting.md)
-[Friday 10th Febuary](meetings/10-02-17 meeting.md)
-[Tuesday 14th Febuary](meetings/14-02-17 meeting.md)
+| Lab meeting date | 
+|---|
+|[Friday 20th January](meetings/20-01-17 meeting.md)|
+|[Tuesday 24th January](meetings/24-01-17 meeting.md)|
+|[Friday 27th January](meetings/27-01-17 meeting.md)|
+|[Tuesday 31st January](meetings/31-01-17 meeting.md)|
+|[Friday 3rd Febuary](meetings/3-02-17 meeting.md)|
+|[Tuesday 7th Febuary](meetings/7-02-17 meeting.md)|
+|[Friday 10th Febuary](meetings/10-02-17 meeting.md)|
+|[Tuesday 14th Febuary](meetings/14-02-17 meeting.md)|
 
 
 ## Realignment of circular sequences 
