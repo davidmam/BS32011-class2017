@@ -15,21 +15,21 @@ We want the target on primer3 to be 200 either side of the restriction site
 We must remeber to canvert the gapped restriction site base number to the ungapped before putting into primer
 We used the example primer input:
 Nano primer3inputexample.txt   example primer file
-Sequence ID – what are we calling it?
+Sequence ID â€“ what are we calling it?
 Opt primer size = 20
 Between 400 and 800 bases for the whole section of sequence- we hope it cuts in the middle
 
-Primer 3_core –o weaselexample.out primer3weaseExample.txt  –runs the programme
+Primer 3_core â€“o weaselexample.out primer3weaseExample.txt  â€“runs the programme
 More weaselExample.out 
 Several sets of primers will come back- need to look at these and decide if we think they are good, bad, indifferent 
-– look at the parameters- do they have self hybridisation? Not very useful if they do as will bind to themselves rather than the template
+â€“ look at the parameters- do they have self hybridisation? Not very useful if they do as will bind to themselves rather than the template
 
 Quick way of deleting a line in nano is ctrl k
 Ctrl r to read a file in 
 Can look on snapgene viewer to see where the restriction sites and primers are
 Can choose enzymes from drop down menu on snapveiwer- shows us the cut sites- going back to the map will show the pattern where it vuts
 Need to find a pair of primers and an ezyme that will give us a fragment in both species but will only cleave in 1
-Find the primers common in both species, go to jalview – use the find option, copy sequence of primer from primer 3 git bash
+Find the primers common in both species, go to jalview â€“ use the find option, copy sequence of primer from primer 3 git bash
 In snapgene can import primers
 
 
