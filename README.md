@@ -1,3 +1,4 @@
+
 # Class Notes for BS32011 - 2017
 
 This repository is the shared repository for class notes and code. The project overview is at https://github.com/davidmam/BS32011-2015 
@@ -56,6 +57,8 @@ Wildcat was the only seqence that needed realligned:
 |Red Fox | [Gapped Restriction](Restrictions with gaps/jn711443_redfox.txt) |
 
 ##Infrequent cutters
+
+[Wildcat and Red Fox](sequences/wildcat_redfox_enzymes.out )
 
 Add infequent cutters
 
