@@ -5,7 +5,7 @@ George Krontiris
 Eleanor Adams
 Roseanne Smith
 
-Previous meeting discussion: Use of github, uploading FASTA and GENEBANK sequences, distribution of Python Books
+Previous meeting discussion: Use of github, uploading FASTA and GENBANK sequences, distribution of Python Books
 
 Current meeting: Aligning sequences on Jalview, create realignment program on spyder.
 
