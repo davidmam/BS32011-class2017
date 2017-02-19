@@ -48,6 +48,8 @@ Wildcat was the only seqence that needed realligned:
 |---|---|
 |Wildcat | [Restriction](sequences/nc_028310.restrict) |
 |Red Fox | [Restriction](sequences/jn711443.restrict ) |
+|Mountain hare | [Restriction](sequences/kr019013.restrict) |
+|Red deer | [Restriction](sequences/ab245427.restrict ) |
 
 ##Restriction files with gaps 
 
@@ -55,6 +57,8 @@ Wildcat was the only seqence that needed realligned:
 |---|---|
 |Wildcat | [Gapped Restriction](Restrictions with gaps/nc_028310_wildcat.txt) |
 |Red Fox | [Gapped Restriction](Restrictions with gaps/jn711443_redfox.txt) |
+|Mountain hare | [Gapped Restriction](Restrictions with gaps/kr019013_mountainhare.txt) |
+|Red Deer | [Gapped Restriction](Restrictions with gaps/AB245427_reddeer.txt) |
 
 ##Infrequent cutters
 
