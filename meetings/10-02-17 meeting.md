@@ -18,3 +18,13 @@ We wrote a python script for this:
 *split('\n') -gets rid of new lines
 *[1:] -includes all lines other than the header
 
+AGENDA:
+
+Previous meeting: Created a Primer3 script to identify suitable primers.
+Current meeting: Recap using Primer3.
+Next meeting: Check if amplified fragments fit size range and if digest gives clear size change.
+
+-o = output file.
+SEQUENCE_ID=myprimers
+SEQUENCE_TEMPLATE = DNA sequence all on one line
+Check if reverse complement or forward sequence.
