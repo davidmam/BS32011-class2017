@@ -5,7 +5,7 @@ George Krontiris
 Eleanor Adams
 Roseanne Smith 
 
-Previous meeting: Aligning sequences on Jalview: Circular genomes may not have the same start and end point, as identified in Wildcat. We created a program to reallign the wildcat genome and this was uploaded onto github. AFter the meeting we met in the library to discuss using jalveiw. 
+Previous meeting: Aligning sequences on Jalview: Circular genomes may not have the same start and end point, as identified in Wildcat. We created a program to realign the wildcat genome and this was uploaded onto github. After the meeting we met in the library to discuss using jalveiw. 
  
 Current meeting: restriction analysis, by next week the presenter will provide 1-2 slides in the meeting to show progression.
 Restriction enzyme classes: a) Cuts in site b) Cuts after/before site 
@@ -58,3 +58,6 @@ For next week: Count the gaps in the command prompt.
 You can use the multiple alignment from jalview.
 nano filename.txt is a text editor
 
+The realigned wilcat genome was uploaded but the link needed to be added to github.
+The enzyme site is the position the base cuts after. There may be blunt or sticky ends.
+Symmetrical refers to forward and reverse compliment.
