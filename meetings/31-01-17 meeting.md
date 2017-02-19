@@ -16,8 +16,8 @@ Minutes:
 
 George and Ellie had problems with git crashing when trying to create restriction sites on Xming.
 David showed us how to correct this by using git-config global. 
-Our current FASTA sequences did not include the gaps that are created when the multiple allignment was done.
-This meeting David showed us how to include the gaps from the multiple allignement in our current sequences.
+Our current FASTA sequences did not include the gaps that are created when the multiple alignment was done.
+This meeting David showed us how to include the gaps from the multiple alignement in our current sequences.
 This was done using sypder python. 
 
 [Python script to add gaps to sequence using multiple alignment](sequences/realigner.py)
