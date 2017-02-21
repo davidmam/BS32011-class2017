@@ -63,8 +63,9 @@ Wildcat was the only seqence that needed realligned:
 ##Infrequent cutters
 
 [Wildcat and Red Fox](sequences/wildcat_redfox_enzymes.out )
+
 [Mountain hare and Red deer](sequences/mountainhare_reddeer_enzymes.out )
-Add infequent cutters
+
 
 #Sequences into one line
 
