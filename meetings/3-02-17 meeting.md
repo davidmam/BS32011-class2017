@@ -13,5 +13,5 @@ There was a problem with the previous script (rewriting positions with gaps) whe
 sitefinder.py got rid of roughly 3/4 restriction sites.
 Candidate sites need to be selected by finding infrequent cutters and checking in Jalview if there is a suitable gap.
 
-[Restriction site finder](BS32011-class2017/sequences/sitefinder.py)
+[Restriction site finder](sequences/sitefinder.py)
 
