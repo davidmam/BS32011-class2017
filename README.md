@@ -19,7 +19,7 @@ This repository is the shared repository for class notes and code. The project o
 
 ## Useful info
 
-sYou can find a page of useful info for Git [here](git_info.md)
+You can find a page of useful info for Git [here](git_info.md)
 
 ## Lab meetings
 
