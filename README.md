@@ -64,9 +64,22 @@ Wildcat was the only seqence that needed realligned:
 
 [Wildcat and Red Fox](sequences/wildcat_redfox_enzymes.out )
 
-Add infequent cutters
+[Mountain hare and Red deer](sequences/mountainhare_reddeer_enzymes.out )
 
+
+#Sequences into one line
+
+| Common name | One line file |
+|---|---|
+|Wildcat | [One line](sequences/NC_028310_wildcat_edited.fasta.one.txt ) |
+|Red Fox | [one line](sequences/JN711443_redfox.fasta.one.txt  ) |
+|Mountain hare | [one line](sequences/mountainhare.fasta.one.txt) |
+|Red deer | [one line](sequences/reddeer.fasta.one.txt) |
 ##Chosen primers
 
-Add chosen primers
+| Name | Enzyme | Cuts | File containing possible primers |
+|---|---|---|---|
+|Wildcat and Red Fox |BseYI | Wildcat but not Red Fox | [Primers](sequences/primers for red fox and wildcat 1.txt) |
+|Wildcat and Red Fox |DinI | Red Fox but not Wildcat | [Primers](sequences/primers for red fox and wildcat 2.txt) |
+
 
