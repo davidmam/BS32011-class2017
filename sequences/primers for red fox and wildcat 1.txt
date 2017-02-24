@@ -1,0 +1,98 @@
+Possible primers for ['BseYI', 1, 0, 0] -cuts at wildcat but not red fox
+
+PRIMER PICKING RESULTS FOR Wildcat
+
+No mispriming library specified
+Using 1-based sequence positions
+WARNING: Unrecognized base in input sequence
+
+OLIGO            start  len      tm     gc%  any_th  3'_th hairpin seq 
+LEFT PRIMER      14262   20   59.02   50.00    0.00   0.00    0.00 TGATGAAACTTCGGCTCCCT
+RIGHT PRIMER     15035   20   59.00   50.00    0.00   0.00    0.00 TTTGTTGGGGATGGATCGGA
+SEQUENCE SIZE: 16640
+INCLUDED REGION SIZE: 16640
+
+PRODUCT SIZE: 774, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
+TARGETS (start len 
+
+KEYS (in order of precedence):
+****** target
+>>>>>> left primer
+<<<<<< right primer
+
+ADDITIONAL OLIGOS
+                    start  len      tm     gc%  any_th  3'_th hairpin seq 
+
+ 1 LEFT PRIMER      14617   20   58.93   50.00    0.00   0.00    0.00 ACCTCCTGTCAGCAATTCCA
+   RIGHT PRIMER     15104   20   59.01   55.00    0.00   0.00    0.00 GGAGGTGTGGAGGATTGGAA
+   PRODUCT SIZE: 488, PAIR ANY_TH COMPL: 19.27, PAIR 3'_TH COMPL: 5.77
+
+ 2 LEFT PRIMER      14685   20   59.13   55.00    0.00   0.00    0.00 GACAAAGCCACCCTAACACG
+   RIGHT PRIMER     15112   20   59.06   55.00    0.00   0.00    0.00 CGTTGTTTGGAGGTGTGGAG
+   PRODUCT SIZE: 428, PAIR ANY_TH COMPL: 7.36, PAIR 3'_TH COMPL: 7.36
+
+ 3 LEFT PRIMER      14690   20   58.72   50.00    0.00   0.00    0.00 AGCCACCCTAACACGATTCT
+   RIGHT PRIMER     15424   20   58.90   55.00    0.00   0.00    0.00 GCTTTGGGTGCTGATAGTGG
+   PRODUCT SIZE: 735, PAIR ANY_TH COMPL: 4.90, PAIR 3'_TH COMPL: 0.00
+
+ 4 LEFT PRIMER      14486   20   59.54   60.00    0.00   0.00    0.00 CGGCTCCTACACCTTCTCAG
+   RIGHT PRIMER     15198   20   59.11   50.00    0.00   0.00    0.00 GTTGGCCACCGATTCATGTT
+   PRODUCT SIZE: 713, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
+
+Statistics
+         con   too    in    in   not          no    tm    tm   high  high  high        high      
+         sid  many   tar  excl    ok   bad    GC   too   too any_th 3'_th hair-  poly   end      
+        ered    Ns   get   reg   reg   GC% clamp   low  high  compl compl   pin     X  stab    ok
+Left   85175     0     0     0     0 16193     0 46063  5101      0     0    42  1168     0 16608
+Right   9242    24     0     0     0  1363     0  5045   560      0     0    10   161     0  2079
+Pair Stats:
+considered 84398, unacceptable product size 84392, primer in pair overlaps a primer in a better pair 364, ok 6
+libprimer3 release 2.3.6
+
+PRIMER PICKING RESULTS FOR Red Fox
+
+No mispriming library specified
+Using 1-based sequence positions
+OLIGO            start  len      tm     gc%  any_th  3'_th hairpin seq 
+LEFT PRIMER      14386   20   58.83   50.00    0.00   0.00    0.00 TCACATCTGCCGAGACGTTA
+RIGHT PRIMER     15182   20   59.10   55.00    0.00   0.00    0.00 GGAGGTCTGCGGTTAGAAGT
+SEQUENCE SIZE: 16633
+INCLUDED REGION SIZE: 16633
+
+PRODUCT SIZE: 797, PAIR ANY_TH COMPL: 8.78, PAIR 3'_TH COMPL: 10.74
+TARGETS (start len 
+
+KEYS (in order of precedence):
+****** target
+>>>>>> left primer
+<<<<<< right primer
+
+ADDITIONAL OLIGOS
+                    start  len      tm     gc%  any_th  3'_th hairpin seq 
+
+ 1 LEFT PRIMER      14240   20   59.46   55.00    0.00   0.00    0.00 ATCGACCTTCCCACACCATC
+   RIGHT PRIMER     15035   20   59.24   55.00    0.00   0.00    0.00 TGGACCGGAGAATGGCATAG
+   PRODUCT SIZE: 796, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
+
+ 2 LEFT PRIMER      14382   20   59.47   55.00    4.70   0.00    0.00 TCACTCACATCTGCCGAGAC
+   RIGHT PRIMER     15117   20   59.23   55.00    0.00   0.00    0.00 TTTGAGGTGTGTAGGTGGGG
+   PRODUCT SIZE: 736, PAIR ANY_TH COMPL: 9.66, PAIR 3'_TH COMPL: 0.00
+
+ 3 LEFT PRIMER      14782   20   58.36   50.00   15.82   0.00    0.00 TCTCCACGAAACAGGATCCA
+   RIGHT PRIMER     15191   20   59.10   55.00    0.00   0.00    0.00 TTAAGGTGAGGAGGTCTGCG
+   PRODUCT SIZE: 410, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
+
+ 4 LEFT PRIMER      14785   20   58.11   50.00    4.66   0.00    0.00 CCACGAAACAGGATCCAACA
+   RIGHT PRIMER     15525   20   58.82   50.00    0.00   0.00    0.00 ACGACGTACATAGGGCAAGT
+   PRODUCT SIZE: 741, PAIR ANY_TH COMPL: 0.00, PAIR 3'_TH COMPL: 0.00
+
+Statistics
+         con   too    in    in   not          no    tm    tm   high  high  high        high      
+         sid  many   tar  excl    ok   bad    GC   too   too any_th 3'_th hair-  poly   end      
+        ered    Ns   get   reg   reg   GC% clamp   low  high  compl compl   pin     X  stab    ok
+Left   85083     0     0     0     0 14478     0 46318  5477      0     0    22  1177     0 17611
+Right   9301     0     0     0     0  1372     0  4335   854      0     0     8   172     0  2560
+Pair Stats:
+considered 225872, unacceptable product size 225865, primer in pair overlaps a primer in a better pair 622, ok 7
+libprimer3 release 2.3.6
+

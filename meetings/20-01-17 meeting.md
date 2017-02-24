@@ -6,13 +6,13 @@
 
 ### Tasks
 
-1. uplaod fasta file for sequences into repository (sequences folder)
-1. downlaod all sequences and perform multiple sequence alignment.
+1. upload fasta file for sequences into repository (sequences folder)
+1. download all sequences and perform multiple sequence alignment.
 1. review mitochondrial structure.
 
 ### Python Books
 
 * George - Haddock et al.
 * Roseanne - Python for Biologists
-* Elanor - Computing for Biologists
+* Eleanor - Computing for Biologists
 

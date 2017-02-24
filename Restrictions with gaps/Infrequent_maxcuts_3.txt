@@ -1,0 +1,10 @@
+infrequent unique cutters for wildcat and red fox with 3 max cuts = 
+{'PsrI', 'Cfr9I', 'NaeI', 'GsaI', 'SacII', 'ClaI', 'BsgI', 'ApaLI', 'MroNI', 'AarI', 
+'BglI', 'NheI', 'BseYI', 'PmeI', 'Bsp120I', 'BspQI', 'BaeI', 'BmtI', 'SalI', 'PacI', 
+'PvuII', 'Eco31I', 'DraII', 'NarI', 'SplI', 'BstEII', 'NcoI', 'BsrBI', 'BbvII', 'EcoRV', 
+'BaeGI', 'PasI', 'AlwNI', 'TstI', 'ArsI', 'ApaI', 'XhoI', 'DraIII', 'BtgZI', 'BbvCI',
+'Bsp1407I', 'Eco57MI', 'AclI', 'BfoI', 'XbaI', 'SwaI', 'SnaBI', 'NmeAIII', 'ScaI', 'BcgI', 
+'KasI', 'SauI', 'XmnI', 'BspLU11I', 'DrdI', 'BsrDI', 'CsiI', 'BstAPI', 'EcoRI', 'DinI', 
+'McrI', 'CspCI', 'BspMI', 'Hpy99I', 'XmaIII', 'BssNAI', 'Eam1105I', 'MfeI', 'HgiCI', 'EspI', 
+'EcoNI', 'PmaCI', 'KflI', 'Cfr10I', 'FnuDII', 'HgaI', 'Eco57I', 'SmaI', 'XcmI', 'AflII', 
+'EciI', 'AjuI'}
