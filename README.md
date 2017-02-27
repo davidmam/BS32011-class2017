@@ -81,5 +81,6 @@ Wildcat was the only seqence that needed realligned:
 |---|---|---|---|
 |Wildcat and Red Fox |BseYI | Wildcat but not Red Fox | [Primers](sequences/primers for red fox and wildcat 1.txt) |
 |Wildcat and Red Fox |DinI | Red Fox but not Wildcat | [Primers](sequences/primers for red fox and wildcat 2.txt) |
-
+|Mountain hare and Red deer |NaeI | Mountain hare but not Red Deer | [Primers] |
+|Mountain hare and Red deer |DraIII | Red deer but not Mountain hare | [Primers]|
 
